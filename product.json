@@ -1,29 +1,5 @@
 [
   {
-    "id": 1,
-    "src": "https://github.com/rkdtjdduq88/rkdtjdduq88.github.io/blob/main/pro.jpg?raw=true",
-    "alt": "워킹화/운동화/스니커즈",
-    "pname": "티바트",
-    "color": "화이트",
-    "price": "99,000원"
-  },
-  {
-    "id": 2,
-    "src": "https://github.com/rkdtjdduq88/rkdtjdduq88.github.io/blob/main/reebok.jpg?raw=true",
-    "alt": "워킹화/운동화/스니커즈",
-    "pname": "티바트",
-    "color": "화이트",
-    "price": "99,000원"
-  },
-  {
-    "id": 3,
-    "src": "https://github.com/rkdtjdduq88/rkdtjdduq88.github.io/blob/main/skechers.jpg?raw=true",
-    "alt": "워킹화/운동화/스니커즈",
-    "pname": "티바트",
-    "color": "화이트",
-    "price": "99,000원"
-  },
-  {
     "id": 4,
     "src": "https://github.com/rkdtjdduq88/rkdtjdduq88.github.io/blob/main/worldcup.jpg?raw=true",
     "alt": "워킹화/운동화/스니커즈",
@@ -54,13 +30,5 @@
     "pname": "남성로퍼",
     "color": "블랙 + 브라운",
     "price": "38,800원"
-  },
-  {
-    "id": 8,
-    "src": "https://github.com/rkdtjdduq88/rkdtjdduq88.github.io/blob/main/tandy.jpg?raw=true",
-    "alt": "탠디 구두",
-    "pname": "탠디 세무 펌프스 블랙",
-    "color": "블랙",
-    "price": "166,300원"
-  }
+  }  
 ]
